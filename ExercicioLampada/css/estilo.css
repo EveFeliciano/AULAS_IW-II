@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(239, 239, 163);
+    margin: 250px;
 }
 header,main{
     display: flex;
@@ -7,5 +7,13 @@ header,main{
     align-items: center;
 }
 button{
+    background-color: rgb(59, 59, 203);
+    color: aliceblue;
     width: 80px;
+}
+.legenda{
+    font-size: 20px;
+    font-family:monospace;
+    color: blue;
+    margin-top: 20px;
 }
