@@ -1,0 +1,21 @@
+body{
+    margin: 250px;
+}
+header,main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    background-color: rgb(59, 59, 203);
+    color: aliceblue;
+    width: 80px;
+}
+.legenda{
+    font-size: 20px;
+    font-family:monospace;
+    color: blue;
+    border-style: solid blue;
+    margin-top: 20px;
+    padding: 10px blue;
+}
