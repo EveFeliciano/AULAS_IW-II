@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+.container{
+    background-color: rgb(142, 117, 255);
+    width: 55%;
+    height: 55%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50px;
+}
+button{
+    background-color: rgb(94, 63, 231);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    border-radius: 10px;
+    border-color: rgb(94, 63, 231);
+}
+h1{
+    margin-top: 55px;
+}
+.cont2{
+    background-color: rgb(145, 126, 255);
+    border-radius: 50px;
+}

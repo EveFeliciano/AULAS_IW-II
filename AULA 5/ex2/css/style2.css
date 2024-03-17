@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(215, 156, 245);
+    background-color: rgb(156, 180, 245);
     color: aliceblue;
     text-align: center;
     font-family: cursive;
@@ -8,9 +8,9 @@ body{
 }
 
 button{
-    background-color: blueviolet;
+    background-color: rgb(43, 137, 226);
     color: aliceblue;
     font-family: cursive;
     border-radius: 10px;
-    border-color: rgb(112, 35, 185);
+    border-color: rgb(50, 35, 185);
 }
