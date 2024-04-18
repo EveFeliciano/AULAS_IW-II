@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(146, 146, 255);
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.container{
+    text-align: center;
+    background-color: rgb(125, 116, 255);
+    width: 50%;
+    border-radius: 20px;
+}
