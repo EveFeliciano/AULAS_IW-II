@@ -11,6 +11,8 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
+    bottom: 0;
+    background: black
 }
 
 .flowey {
@@ -24,10 +26,15 @@
     width: 42px;
     position: absolute;
     bottom: 0;
+    animation: jump 500ms ease-out;
+}
+.bg{
+    position: absolute;
+    bottom: 0;
 }
 
 .jump {
-    animation: jump 500ms ease-out;
+    animation: jump 500ms infinite ease-out;
 }
 
 @keyframes flowey-animation {

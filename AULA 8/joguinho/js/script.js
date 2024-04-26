@@ -4,11 +4,11 @@ const frisk = document.querySelector('.frisk');
 const jump = () => {
     frisk.classList.add('jump');
 
-    setTimeout(() => (
+     setTimeout(() => (
         
         frisk.classList.remove('jump')
 
     ), 500);
 }
 
-document.addEventListener('keydown' , jump); 
+document.addEventListener('keydown', jump); 
